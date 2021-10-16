@@ -1,3 +1,3 @@
-Version|0.0.0.7
-Link|https://github.com/Yeethan69/AIO/releases/download/Initial-Release/Forza-Mods-AIO.exe
-MOTD|300 Downloads in 2 days?
+Version|0.0.0.8
+Link|https://github.com/Yeethan69/AIO/releases/download/0.0.0.8/Forza-Mods-AIO.exe
+MOTD|Sun RGB go brrrrr
