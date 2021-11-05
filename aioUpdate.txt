@@ -1,3 +1,3 @@
 Version|0.0.0.8
 Link|https://github.com/Yeethan69/AIO/releases/download/0.0.0.8/Forza-Mods-AIO.exe
-MOTD|Sun RGB go brrrrr
+MOTD|FH5 time baby
