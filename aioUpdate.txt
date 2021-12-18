@@ -1,3 +1,3 @@
-Version|0.0.0.21
-Link|https://github.com/Yeethan69/AIO/releases/download/0.0.0.21/Forza-Mods-AIO.exe
-MOTD|AIO do be worky
+Version|0.0.0.22
+Link|https://github.com/Yeethan69/AIO/releases/download/0.0.0.22/Forza-Mods-AIO.exe
+MOTD|Steam cool shit time
