@@ -1,4 +1,4 @@
-Version|0.0.0.38
-Link|https://github.com/Yeethan69/AIO/releases/download/0.0.0.38/Forza-Mods-AIO.exe
-MOTD|work work work work
+Version|0.0.0.39
+Link|https://github.com/Yeethan69/AIO/releases/download/0.0.0.39/Forza-Mods-AIO.exe
+MOTD|Pog map
 GameVerByte|ȇˢ÷þëğĖǨȒl˛˪}zBɿ2!ΩưWn¡ƬƃŵǊƶǚ«9ǝƂ®ŇƣŪ!
