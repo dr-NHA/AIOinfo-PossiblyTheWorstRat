@@ -1,4 +1,4 @@
-Version|0.0.0.40
-Link|https://github.com/Yeethan69/AIO/releases/download/0.0.0.40/Forza-Mods-AIO.exe
+Version|0.0.0.41
+Link|https://github.com/Yeethan69/AIO/releases/download/0.0.0.41/Forza-Mods-AIO.exe
 MOTD|Horn changer pog
 GameVerByte|eʆ\˓èğĖǨȒl˛˪}zBɿ2!Ω_ÂªÔňƜŵǊƶǚ«9ǝƂ®ŇƣŪ!
