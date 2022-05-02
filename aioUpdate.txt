@@ -1,4 +1,4 @@
-Version|0.0.0.42
-Link|https://github.com/Yeethan69/AIO/releases/download/0.0.0.42/Forza-Mods-AIO.exe
+Version|0.0.0.43
+Link|https://github.com/Yeethan69/AIO/releases/download/0.0.0.43/Forza-Mods-AIO.exe
 MOTD|Emote unlocker pog
 GameVerByte|ƧǢʁɟÉğĖǨȒl˛˪}zBɿ2!ΩÑƾ®þ)ƣŵǊƶǚ«9ǝƂ®ŇƣŪ!
