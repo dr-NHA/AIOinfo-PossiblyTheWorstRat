@@ -1,4 +1,4 @@
 Version|0.0.0.51
 Link|https://github.com/Yeethan69/AIO/releases/download/0.0.0.51/Forza-Mods-AIO.exe
 MOTD|worky twerky :)
-GameVerByte|ųƧȔǣ¶ğĖǨȒl˛˪}zBɿ2!ΩƑ¶t\ǇŷŵǊƶǚ«9ǝƂ®ŇƣŪ!
+GameVerByte|ɋŵȽɨ½ğĖǨȒl˛˪}zBɿ2!ΩƑ¶tāĨŷŵǊƶǚ«9ǝƂ®ŇƣŪ!
