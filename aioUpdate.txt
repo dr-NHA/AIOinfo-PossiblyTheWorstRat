@@ -1,4 +1,4 @@
-Version|0.0.0.54
-Link|https://github.com/Yeethan69/AIO/releases/download/0.0.0.54/Forza-Mods-AIO.exe
+Version|0.0.0.55
+Link|https://github.com/Yeethan69/AIO/releases/download/0.0.0.55/Forza-Mods-AIO.exe
 MOTD|Worky :)
 GameVerByte|ɋŵȽɨ½ğĖǨȒl˛˪}zBɿ2!ΩƑ¶tāĨŷŵǊƶǚ«9ǝƂ®ŇƣŪ!
